@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/ActivitySelect.tsx","./src/components/CitySelect.tsx","./src/components/HourlyTable.tsx","./src/components/NowCard.tsx","./src/components/StatusFooter.tsx","./src/components/SuitabilityGrid.tsx"],"version":"5.9.3"}
